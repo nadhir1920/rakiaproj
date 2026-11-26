@@ -49,7 +49,7 @@ export default function AboutAndSkills({ about, skillGroups }) {
 
             <figure className="mx-auto w-full max-w-md rounded-3xl border border-[#e2d7ec] bg-[#f2ebf8]/60 p-6">
               <img
-                src="/assets/workspace-illustration.svg"
+                src="/rakiaproj/assets/workspace-illustration.svg"
                 alt="Illustration de l'environnement de création web de Rakia Limem"
                 loading="lazy"
                 className="w-full"

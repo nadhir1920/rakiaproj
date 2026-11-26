@@ -20,7 +20,7 @@ export default function Navbar({ brandName }) {
           className="inline-flex items-center gap-2.5 font-serif-display text-lg font-extrabold text-[#5a2a82] transition hover:opacity-85"
         >
           <img
-            src="/assets/logos/brand-mark.svg"
+            src="/rakiaproj/assets/logos/brand-mark.svg"
             alt=""
             className="h-9 w-9 rounded-xl shadow-xs"
           />

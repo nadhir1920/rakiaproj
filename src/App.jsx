@@ -223,7 +223,7 @@ function Hero() {
           >
             <div className="portrait-card">
               <div className="portrait-img-wrap">
-                <img src="/assets/rakia.jpeg" alt="Portrait professionnel de Rakia Limem" />
+                <img src="/rakiaproj/assets/rakia.jpeg" alt="Portrait professionnel de Rakia Limem" />
               </div>
               <div className="portrait-footer">
                 <div>
@@ -515,9 +515,9 @@ function Dossier() {
           </p>
           <div className="report-downloads" aria-label="Téléchargement des trois rapports du dossier MDW" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 12, marginBottom: 30 }}>
             {[
-              { title: 'Rapport de diagnostic personnel', file: '/assets/reports/rapport-diagnostic-personnel.pdf', detail: 'Livrable 1 · compétences, SWOT, métier cible, recul critique IA' },
-              { title: 'Rapport de veille professionnelle', file: '/assets/reports/rapport-veille-professionnelle.pdf', detail: 'Livrable 3 · annonces, compétences recherchées, synthèse' },
-              { title: 'Comparaison CV & lettre', file: '/assets/reports/rapport-comparaison-cv-lettre.pdf', detail: 'Livrable 2 · versions initiales, améliorations et justifications' },
+              { title: 'Rapport de diagnostic personnel', file: '/rakiaproj/assets/reports/rapport-diagnostic-personnel.pdf', detail: 'Livrable 1 · compétences, SWOT, métier cible, recul critique IA' },
+              { title: 'Rapport de veille professionnelle', file: '/rakiaproj/assets/reports/rapport-veille-professionnelle.pdf', detail: 'Livrable 3 · annonces, compétences recherchées, synthèse' },
+              { title: 'Comparaison CV & lettre', file: '/rakiaproj/assets/reports/rapport-comparaison-cv-lettre.pdf', detail: 'Livrable 2 · versions initiales, améliorations et justifications' },
             ].map((r) => (
               <a key={r.file} href={r.file} download className="report-download-card" style={{ display: 'block', padding: 16, border: '1px solid var(--border)', borderRadius: 14, background: 'var(--surface)', textDecoration: 'none' }}>
                 <strong style={{ display: 'block', color: 'var(--ink)', marginBottom: 6 }}>{r.title}</strong>
@@ -798,7 +798,7 @@ function Closing() {
           <Reveal delay={0.14}>
             <div className="linkedin-card">
               <div className="linkedin-qr" style={{ display: 'grid', placeItems: 'center', background: '#f1f5f9', borderRadius: 14, padding: 18 }}>
-                <img src="/assets/rakia.jpeg" alt="Rakia Limem" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 10 }} />
+                <img src="/rakiaproj/assets/rakia.jpeg" alt="Rakia Limem" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 10 }} />
               </div>
               <div className="linkedin-info">
                 <span className="linkedin-label">Réseau professionnel</span>

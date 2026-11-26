@@ -6,7 +6,7 @@ export default function Hero({ profile }) {
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 bg-cover bg-center opacity-60"
-        style={{ backgroundImage: "url('/assets/hero-bg.jpg')" }}
+        style={{ backgroundImage: "url('/rakiaproj/assets/hero-bg.jpg')" }}
       />
       <div
         aria-hidden="true"

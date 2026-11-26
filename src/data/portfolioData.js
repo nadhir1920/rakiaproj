@@ -160,7 +160,7 @@ export const PROJECTS = [
     year: "2026",
     title: "Smart Booking System",
     stackLabel: "Spring Boot 3.2 · React 18 · PostgreSQL · Stripe",
-    image: "/assets/projects/smart-booking-illustration.svg",
+    image: "/rakiaproj/assets/projects/smart-booking-illustration.svg",
     summary:
       "Plateforme full-stack de réservation d'hôtels, salles de réunion et espaces de coworking avec calendrier temps réel (WebSocket STOMP) et paiement Stripe.",
     highlights: [
@@ -178,7 +178,7 @@ export const PROJECTS = [
     year: "2026",
     title: "Car Rental Platform",
     stackLabel: "Laravel 13 · React 19 · Vite 8 · Tailwind CSS 4",
-    image: "/assets/projects/car-rental-illustration.svg",
+    image: "/rakiaproj/assets/projects/car-rental-illustration.svg",
     summary:
       "Plateforme complète de location de véhicules : catalogue public, réservations, gestion des contrats, suivi des paiements et dashboard administrateur.",
     highlights: [
@@ -196,7 +196,7 @@ export const PROJECTS = [
     year: "2026",
     title: "Gestion des Étudiants",
     stackLabel: "Angular 18 · PHP 8 REST · MySQL · JWT HS256",
-    image: "/assets/projects/project-edusmart.jpg",
+    image: "/rakiaproj/assets/projects/project-edusmart.jpg",
     summary:
       "Système complet de gestion académique : étudiants, saisie des notes (40% CC / 60% Examen), absences, statistiques Chart.js et bulletins.",
     highlights: [
@@ -214,7 +214,7 @@ export const PROJECTS = [
     year: "2026",
     title: "Artisana Tunisi",
     stackLabel: "HTML5 · CSS3 Grid · JS ES6+ · PHP 8 · MySQL",
-    image: "/assets/projects/project-artisana.jpg",
+    image: "/rakiaproj/assets/projects/project-artisana.jpg",
     summary:
       "Boutique en ligne responsive valorisant l'artisanat tunisien avec filtrage multicritères et panier persistant.",
     highlights: [
@@ -231,7 +231,7 @@ export const PROJECTS = [
     year: "2025",
     title: "TaskFlow Kanban",
     stackLabel: "JavaScript ES6+ · HTML5 Drag & Drop · LocalStorage",
-    image: "/assets/projects/project-taskflow.jpg",
+    image: "/rakiaproj/assets/projects/project-taskflow.jpg",
     summary:
       "Gestionnaire de sprints Kanban collaboratif avec glisser-déposer natif, priorités visuelles et sauvegarde locale.",
     highlights: [
@@ -247,7 +247,7 @@ export const PROJECTS = [
     year: "2024",
     title: "Maison El Medina",
     stackLabel: "HTML5 · CSS3 Flexbox · JavaScript · UI/UX",
-    image: "/assets/projects/project-cafe.svg",
+    image: "/rakiaproj/assets/projects/project-cafe.svg",
     summary:
       "Site vitrine éditorial pour un café artisanal avec carte interactive des spécialités et module de réservation.",
     highlights: [
@@ -335,7 +335,7 @@ export const JOB_OFFERS = [
     match: "Projets pertinents : Smart Booking System (Spring Boot, React, PostgreSQL) et Gestion des Étudiants (Angular, PHP, JWT).",
     sourceLabel: "Consulter l'offre Tanitjobs",
     url: "https://www.tanitjobs.com/job/2074963/stagiaire-pfe-d%C3%A9veloppeur-se-java-spring-boot-h-f-3-postes-600-dt-par-mois-tunis/",
-    evidenceImage: "/assets/evidence/job-offers/offer-01.png",
+    evidenceImage: "/rakiaproj/assets/evidence/job-offers/offer-01.png",
   },
   {
     location: "Tunis · DCACM",
@@ -347,7 +347,7 @@ export const JOB_OFFERS = [
     match: "Correspondance : expérience Laravel/PHP, gestion de données, CRUD, authentification et développement de plateformes web.",
     sourceLabel: "Consulter le sujet officiel",
     url: "https://stages-tunisietelecom.jobs.hr.cloud.sap/job/Plateforme-de-calcul-et-validation-du-P%26L/1375198957/",
-    evidenceImage: "/assets/evidence/job-offers/offer-02.png",
+    evidenceImage: "/rakiaproj/assets/evidence/job-offers/offer-02.png",
   },
   {
     location: "Présentiel · Rue Lac Léman, Tunis",
@@ -359,7 +359,7 @@ export const JOB_OFFERS = [
     match: "À analyser par rapport aux projets web et aux compétences de développement Full-Stack présentées dans le portfolio.",
     sourceLabel: "Consulter l'annonce CORP",
     url: "https://corp.tn/article-a-decouvrir/offre-de-stage-pour-etudiants-it/",
-    evidenceImage: "/assets/evidence/job-offers/offer-03.png",
+    evidenceImage: "/rakiaproj/assets/evidence/job-offers/offer-03.png",
   },
 ];
 
